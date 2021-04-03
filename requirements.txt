@@ -1,0 +1,6 @@
+flask
+flasgger
+gensim==3.8.1
+tqdm
+leven
+flask-wtf
