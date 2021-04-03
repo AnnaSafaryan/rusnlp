@@ -15,7 +15,7 @@
    | model | description|
    |-------|------------| 
    | cross_muse_ext.bin | Объединённые в одну модель очищенные от мусора русские и английские эмбеддинги [MUSE](https://github.com/facebookresearch/MUSE), которые мы пополнили векторами слов из текстов статей |
-   | common_tok_muse_ext_<версия>*.bin | Вектора всех текстов статей из [базы](https://github.com/rusnlp/rusnlp/blob/master/code/web/data/rus_nlp_20201124.db) и задач из [NLPub.tsv](https://github.com/rusnlp/rusnlp/blob/master/code/web/data/nlpub.tsv) (начинаются с TASK::)|
+   | common_tok_muse_ext_<версия>*.bin | Вектора всех текстов статей из [базы](code/web/data/rusnlp20210330.db) и задач из [NLPub.tsv](code/web/data/nlpub.tsv) (начинаются с TASK::)|
 
    Допускаются следующие форматы моделей:
    * .bin(.gz)
